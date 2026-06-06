@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} used for frontend*/
 export default {
   content: [
     "./index.html",
