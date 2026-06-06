@@ -102,11 +102,20 @@ node --env-file=.env seed.js
 *(Note: Requires Node.js v20+ to use the `--env-file` flag natively. If using an older version, install `dotenv` and run accordingly).*
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 38 10" src="https://github.com/user-attachments/assets/5c154d00-1905-4adb-b9e2-b238434662db" />ts are welcome! Feel free to check the [issues page](../../issues).
 
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 38 10 (1)" src="https://github.com/user-attachments/assets/c4dcff1c-d045-46b9-ae05-e929c5f7c82f" />
+<img width="1600" height="895" alt="WhatsApp Image 2026-06-06 at 16 39 43" src="https://github.com/user-attachments/assets/bcb9ecda-a6b2-4066-998c-88b0b85d6ae9" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 39 43 (1)" src="https://github.com/user-attachments/assets/ef44e126-1aef-468f-9e11-2823529de141" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 39 26" src="https://github.com/user-attachments/assets/52e7abd4-2d01-4f63-a399-e7da28ec36d5" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 39 26 (1)" src="https://github.com/user-attachments/assets/2cef287e-5952-4483-8289-dfe8ecbb39f2" />
+<img width="1600" height="901" alt="WhatsApp Image 2026-06-06 at 16 38 48" src="https://github.com/user-attachments/assets/052ba04f-8150-419b-8947-f05ad0b4b835" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 38 26" src="https://github.com/user-attachments/assets/2ba9a351-17fa-4310-898e-b317084cf454" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 40 01" src="https://github.com/user-attachments/assets/bf3e1bbc-fa2d-457a-8bb1-711f23ed137a" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-06 at 16 40 01 (1)" src="https://github.com/user-attachments/assets/049ae197-85be-4dcf-b547-0dbe272d5e18" />
+
+
